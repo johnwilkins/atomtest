@@ -1,2 +1,2 @@
 # atomtest
-Testing Atom Integration with Git Hub
+Testing Atom Integration with GitHub.
