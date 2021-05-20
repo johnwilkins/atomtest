@@ -2,3 +2,4 @@ This is a test file.
 This is another line.
 This is yet another line.
 This is another line.
+This is another line.
