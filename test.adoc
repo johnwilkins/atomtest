@@ -1,4 +1,6 @@
 This is a test file.
 This is another line.
-This is another line.
-This is another line.
+Removed a bunch of lines.
+
+Add a line.
+Add another line.
